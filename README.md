@@ -15,7 +15,7 @@ Download corresponding datasets if you want to train your own model weights, pre
 
 ## Usage
 
-You can run the demo.ipynb in Google Colab or run the script below.
+You can run the seg.ipynb in Google Colab or run the script below.
 
 ```bash
 # train the model from scratch

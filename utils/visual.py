@@ -131,4 +131,6 @@ def vis_segmentation(image, seg_map, alpha=0.5, colorized=None, ds='coco', save_
     plt.grid('off')
     if save_name:
         plt.savefig(save_name, dpi=150)
-    plt.show()
+    else:
+        plt.show()
+    plt.close()
